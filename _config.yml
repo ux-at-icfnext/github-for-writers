@@ -1,10 +1,10 @@
-title: This is the site title
-description: This is the site description.
+title: Sandbox of USWDS on Jekyll
+description: Have fun, build castles.
 
 # For Github
 # uncommit this on Github -- then add config to .gitignore so as not to overwrite
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/github-for-writers" # the subpath of your site, e.g. /blog
+url: "https://ux-at-icfnext.github.io/github-for-writers" # the base hostname & protocol for your site, e.g. http://example.com
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
