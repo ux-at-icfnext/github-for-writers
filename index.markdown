@@ -16,3 +16,6 @@ layout: home
     </li>
   {% endfor %}
 </ul>
+
+
+Hey this is great!
