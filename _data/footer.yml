@@ -29,16 +29,16 @@ links: footer
 # Configuration for the big footer's email sign-up form.
 # Set to true to make the form visible.
 # Hooking it up to send the data somewhere is up to you :)
-big_footer_signup_form: false
+big_footer_signup_form: true
 
 # Configuration for footer heading. (optional)
-heading: Name of agency
+heading: SAMHSA
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
 logos:
-  - src: https://18f.gsa.gov/assets/img/logos/18f-logo.svg
-    alt: 18F
+  - src: https://www.samhsa.gov/themes/omega_samhsa/images/logo.png
+    alt: SAMHSA
     external: true
 
 # Configuration for footer contact links
@@ -58,14 +58,14 @@ contact:
       href: https://youtube.com
       external: true
       type: youtube
-  # - text: RSS Feed
-  #   href: https://usa.gov/
-  #   external: true
-  #   type: rss
-  heading: Agency contact center
+    - text: RSS Feed
+      href: https://usa.gov/
+      external: true
+      type: rss
+  heading: SAMHSA contact center
   # Configuration for contact links for email, phone, etc...
   contact_links:
-    - text: (800) CALL-GOVT
-      href: tel:1-800-555-5555
-    - text: info@agency.gov
-      href: mailto:info@agency.gov
+    - text: 1-877-SAMHSA-7 (1-877-726-4727)
+      href: tel:1-877-726-4727
+    - text: 5600 Fishers Lane, Rockville, MD 20857
+      href: 
