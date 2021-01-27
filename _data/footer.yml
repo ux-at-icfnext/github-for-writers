@@ -32,7 +32,7 @@ links: footer
 big_footer_signup_form: true
 
 # Configuration for footer heading. (optional)
-heading: SAMHSA
+#heading: SAMHSA
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
@@ -62,7 +62,7 @@ contact:
       href: https://usa.gov/
       external: true
       type: rss
-  heading: SAMHSA contact center
+  #heading: SAMHSA contact center
   # Configuration for contact links for email, phone, etc...
   contact_links:
     - text: 1-877-SAMHSA-7 (1-877-726-4727)
