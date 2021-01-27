@@ -58,6 +58,10 @@ contact:
       href: https://youtube.com
       external: true
       type: youtube
+    - text: LinkedIn
+      href: https://linkedin.com
+      external: true
+      type: linkedin
     - text: RSS Feed
       href: https://usa.gov/
       external: true
